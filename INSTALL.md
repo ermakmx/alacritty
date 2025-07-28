@@ -8,7 +8,7 @@ install it directly through cargo:
 ```sh
 cargo install alacritty
 ```
-
+8//A/SDASD
 Note that you will still need to install the dependencies for your OS of choice.
 Please refer to the [Dependencies](#dependencies) section.
 
